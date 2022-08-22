@@ -5,3 +5,5 @@
 
 ## Ссылка на дашборд в Tableau Public:
 **https://public.tableau.com/app/profile/daniil4791/viz/__16476601117330/_?publish=yes**
+
+**В папке также находится презентация с исследованием графиков.**
